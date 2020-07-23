@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome! 👋
 
+* ⚒️ C++ / Java
+* ❤ Code for love
+* 🍟🍔🍕🌭🍿🥓 Love delicious food!
 <!--
 **Delecomp/Delecomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
